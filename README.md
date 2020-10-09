@@ -42,3 +42,8 @@ When the project is completed, commit the final changes, sync all pull requests,
 
 ###### List group responsiblities below:
 ###### Provide name and approxamite line numbers where each person wrote their code
+# We pretty much collaborated on the whole project the entire time
+# Monica set up the leaveGarage method lines 28-36
+# Denise  set up all the responses for run method as well as the payForParking method lines 39 - 49 & 22 - 26 
+# Angelica set up the takeTicket method and input logic for leaveGarage method 
+# lines 3 - 20 & 28 - 36
